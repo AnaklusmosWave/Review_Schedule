@@ -1,0 +1,6 @@
+{
+  "name": "綠意複習",
+  "description": "清新簡約的綠意複習排程與月曆管理軟體，支援自動複習週期、推播提醒、多重標籤分類、自訂篩選及數據化複習進度圖表。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
